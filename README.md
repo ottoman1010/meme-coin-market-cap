@@ -1,4 +1,4 @@
-# Meme Coin Market Cap Index (MMC)
+# Meme Market Cap Index (MMC)
 
 A decentralized index and allocation system for XRPL meme tokens with automated basket management.
 
