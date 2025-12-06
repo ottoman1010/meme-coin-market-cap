@@ -46,10 +46,5 @@ Rather than focusing on a single meme coin, MMCI provides a real-time, auditable
 1. Complete initial Mainnet integration.
 2. Introduce real-time basket rebalancing.
 3. Add user-facing dashboard for transparency.
-4. Explore community-driven basket adjustments.
+4. Explore automated basket adjustments.
 
----
-
-## Grant Note
-
-The source code is **private** and available to grant reviewers upon request. MMCI aims to advance **on-chain finance** within the XRPL ecosystem by providing innovative token basket management, automated allocations, and DeFi-inspired mechanics for the community.
