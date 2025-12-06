@@ -1,6 +1,6 @@
 # Meme Market Cap Index (MMCI)
 
-A decentralized index and allocation system for XRPL meme tokens with automated basket management.
+MMCI — Meme Market Cap Index — is the first XRPL community-driven meme index. It is fully transparent, trackable, and backed by a treasury holding XRP and a curated selection of XRPL meme tokens chosen for their cultural significance, network activity, and community engagement.
 
 ---
 
@@ -14,7 +14,7 @@ Meme Coin Market Cap Index (MMCI) is a **DeFi-inspired system** built on the XRP
 - Allocates **15% for — Developer Wallet (Development & upgrades, Security audits, Vision continuity, Founder/dev compensation)**.
 - Provides transparency and efficiency for XRP holders interested in meme token exposure.
 
-MMCI celebrates the lore and community of XRPL meme tokens while providing a structured and automated way to engage with them.
+Rather than focusing on a single meme coin, MMCI provides a real-time, auditable overview of a curated set of XRPL meme projects, allowing the community to observe trends and activity across tokens with notable cultural and community presence on the ledger.
 
 ---
 
@@ -38,7 +38,7 @@ MMCI celebrates the lore and community of XRPL meme tokens while providing a str
 ## Status
 
 - **Prototype/Proof-of-Concept Complete:** Automation logic tested on DevNet.
-- **Mainnet Deployment:** Planned upon successful grant review and additional testing.
+- **Mainnet Deployment:** Planned upon additional testing.
 - **Code:** Private (grant reviewers can request access).
 
 ---
