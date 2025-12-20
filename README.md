@@ -8,8 +8,8 @@ MMCI — Meme Market Cap Index — is the first XRPL community-driven meme index
 
 Rather than focusing on a single meme coin, MMCI provides a real-time, auditable overview of a curated set of XRPL meme projects, allowing the community to observe trends and activity across tokens with notable cultural and community presence on the ledger. The system:
 
-- Allocates **55% of funds to a curated meme token basket**.
-- Allocates **15% XRP liquidity pool support for MMCI/XRP AMM**.
+- Allocates **15% of funds to a curated meme token basket**.
+- Allocates **55% XRP liquidity pool support for MMCI/XRP AMM**.
 - Allocates **15% for operational and development costs (Server + hosting, Marketing, Moderators, Treasury automation systems, Data feeds + dashboard)**.
 - Allocates **15% for — Developer Wallet (Development & upgrades, Security audits, Vision continuity, Founder/dev compensation)**.
 - Provides transparency and efficiency for XRP holders interested in meme token exposure.
